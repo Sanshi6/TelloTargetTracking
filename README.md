@@ -8,3 +8,6 @@ A simple target tracking function was done on a Tello vehicle using SiamDW track
 [Robomaster-SDK](https://github.com/dji-sdk/RoboMaster-SDK)
 
 [Tello-Python](https://github.com/dji-sdk/Tello-Python)
+
+Please download the pth file from the [SiamDW](https://github.com/researchmm/SiamDW) library
+
